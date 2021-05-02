@@ -1,0 +1,16 @@
+{
+  "name": "mdx-slides-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-slides ./deck.mdx",
+    "build": "mdx-slides build ./deck.mdx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mdx-slides": "^0.0.3"
+  }
+}
