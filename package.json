@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mdx-slides": "^0.0.4"
+    "mdx-slides": "^0.0.7"
   }
 }
